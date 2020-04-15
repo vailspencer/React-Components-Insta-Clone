@@ -25,4 +25,11 @@
 
 .social {
   width: 50px;
+  display: flex;
+  align-items: baseline;
+}
+
+.name-text {
+  padding: 5px;
+  font-family: ;
 }
