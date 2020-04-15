@@ -26,6 +26,8 @@ const moreLikes = () => setLikes(likes + 1);
       </div>
       <p className="like-number">
         {likes}
+        {" likes "}
+
       </p>
     </div>
   )
