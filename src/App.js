@@ -8,6 +8,7 @@ import React, {useState} from "react";
 import "./App.css";
 import PostsPage from "../src/components/PostsContainer/PostsPage";
 import SearchBar from "../src/components/SearchBar/SearchBarContainer";
+import DummyData from './dummy-data'
 
 
 // import the PostsPage and SearchBar and add them to the App
